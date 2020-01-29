@@ -23,3 +23,7 @@ In January 2020 **Rob England** [reported](https://www.bbc.co.uk/news/uk-england
 
 * Column chart: Rail delays due to onboard alarms, 2017-2019
 * Column chart: Alarm activations on trains, 2017-2019
+
+## Scripts
+
+* [R script for visualisation](https://github.com/BBC-Data-Unit/train-emergency-alarms/blob/master/em_brakes.R)
